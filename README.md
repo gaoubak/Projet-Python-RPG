@@ -1,4 +1,4 @@
-# Rpg_python
+# Path'Hetic
 
 Vous trouverez si dessous les instruction donnée par le proffeseur , sur lesquel nous avons baser notre jeux .
 
