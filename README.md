@@ -3,7 +3,7 @@
 | Personne            | Rôle                      |github
 | ------------------- | ------------------------- | ------------------------- |
 | ARUMAINATHAN Rijenth| Système combat ,Design monstre/boss , Interface utilisateur , Gestion des évènements |[Rijenth](https://github.com/Rijenth)|
-| BAKAYOKO Kader      | Joueur , Système de commerce , Système d'équipement, Système d'expérience ,Système de classe |[keder](https://github.com/gaoubak)|
+| BAKAYOKO Kader      | Joueur , Système de commerce , Système d'équipement, Système d'expérience ,Système de classe |[kader](https://github.com/gaoubak)|
 | PIVERT Fabrice      | Conception de la map , Système de déplacement, Design des quêtes |[Fabrice](https://github.com/FabPiv)|
 | LESOING Valentin    | Narration ,Système combat,Aspect graphique ,Sauvegarde       |[Valentin](https://github.com/valentin-lsg)|
 
