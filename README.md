@@ -1,4 +1,4 @@
-# paint-en-mieux
+# Projet-Python-RPG
 
 | Personne            | Rôle                      |github
 | ------------------- | ------------------------- | ------------------------- |
